@@ -1,2 +1,2 @@
 # Spotify-Dashboard-End-to-End-Power-BI-Project
-This project acts as an andvace Power BI project , covering everything from data preparation to dashboard development, DAX, and publishing reports — just like a real data analyst portfolio project.
+This project serves as an advanced Power BI project, covering everything from data preparation to dashboard development using DAX queries — just like a real data analyst portfolio project.
